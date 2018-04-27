@@ -135,7 +135,7 @@ export default class SensorsComponent extends Component {
   }
 }
 
-var styles = StyleSheet.create({
+const styles = StyleSheet.create({
   container: {
     backgroundColor: "#eee",
     flexDirection: "row",
